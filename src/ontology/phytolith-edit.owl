@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://phytoliths.org/ontologies/phytolith.owl#"
+     xml:base="http://phytoliths.org/ontologies/phytolith.owl"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
+    <owl:Ontology rdf:about="http://phytoliths.org/ontologies/phytolith.owl"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000117 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000117"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000119 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000119"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasExactSynonym -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://phytoliths.org/ontologies/PHYTOLITH_0000001 -->
+
+    <owl:Class rdf:about="http://phytoliths.org/ontologies/PHYTOLITH_0000001">
+        <obo:IAO_0000117 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Henriette Harmse</obo:IAO_0000117>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">phytolith nomenclature</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://phytoliths.org/ontologies/PHYTOLITH_0000002 -->
+
+    <owl:Class rdf:about="http://phytoliths.org/ontologies/PHYTOLITH_0000002">
+        <rdfs:subClassOf rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000001"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">International Code for Phytolith Nomenclature 1.0</obo:IAO_0000115>
+        <obo:IAO_0000117 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Name of Term Editor</obo:IAO_0000117>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ICPN1.0</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://phytoliths.org/ontologies/PHYTOLITH_0000003 -->
+
+    <owl:Class rdf:about="http://phytoliths.org/ontologies/PHYTOLITH_0000003">
+        <rdfs:subClassOf rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000001"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">International Code for Phytolith Nomenclature 2.0</obo:IAO_0000115>
+        <obo:IAO_0000117 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Name of Term Editor</obo:IAO_0000117>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ICPN2.0</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://phytoliths.org/ontologies/PHYTOLITH_0000004 -->
+
+    <owl:Class rdf:about="http://phytoliths.org/ontologies/PHYTOLITH_0000004">
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">root phytolith</obo:IAO_0000115>
+        <obo:IAO_0000117 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Name of Term Editor</obo:IAO_0000117>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">phytolith</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://phytoliths.org/ontologies/PHYTOLITH_0000005 -->
+
+    <owl:Class rdf:about="http://phytoliths.org/ontologies/PHYTOLITH_0000005">
+        <rdfs:subClassOf rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000004"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unarticulated, solid body with a generally narrower, acute part (referred to as the apex), and another, wider part (referred to as the antapex). The antapex is hemi-spheroidal (rounded), truncated hemispheroidal, or has a near-parallelepipedal to fusiform shape with more or less pointed ends. The apex can be straight or curved, with a sharp or rounded tip. It often forms an angle of less than 90 degrees with the long axis of the antapex, resulting in a markedly asymmetrical, roughly triangular shape in side view. The body overall consists of granular or homogenous silica, typically obscure and/or maculose. The antapex can have multiple simple or dendritic processes covering part of its surface.</obo:IAO_0000115>
+        <obo:IAO_0000117 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Celine Kerfant</obo:IAO_0000117>
+        <obo:IAO_0000119 rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000003"/>
+        <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Morphotype class Aculeolita (in part)</oboInOwl:hasExactSynonym>
+        <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Non-segmented hair phytolith</oboInOwl:hasExactSynonym>
+        <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trichomes, short and long (types IIA3, IIC3)</oboInOwl:hasExactSynonym>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">acute bulbosus</rdfs:label>
+    </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000005"/>
+        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
+        <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Morphotype class Aculeolita (in part)</owl:annotatedTarget>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bertoldi de Pomar, 1975, Plate IV, Figs. 5, 8, 9, 14, 15, 25</obo:IAO_0000119>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000005"/>
+        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
+        <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Non-segmented hair phytolith</owl:annotatedTarget>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Piperno, 1988, Fig. 46</obo:IAO_0000119>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000005"/>
+        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
+        <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trichomes, short and long (types IIA3, IIC3)</owl:annotatedTarget>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brown, 1984, Fig. 1</obo:IAO_0000119>
+    </owl:Axiom>
+    
+
+
+    <!-- http://phytoliths.org/ontologies/PHYTOLITH_0000006 -->
+
+    <owl:Class rdf:about="http://phytoliths.org/ontologies/PHYTOLITH_0000006">
+        <rdfs:subClassOf rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000004"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Circular to oval (â€œsaucer-shapedâ€�, Parry and Smithson, 1966) plate (antapex) with a short, conical, blunt or pointy protrusion (apex) in the center where the plate is thickest. The protrusion points obliquely at an angle &lt;90 degrees with the plane of the plate. The plate is made up of smooth, homogeneous opaque material and ranges from being very thin and transparent to being thickened and (at higher magnification) laminated in cross section (with lamination parallel to the surface). In cases when the entire perimeter of the plate is silicified, its edges can be sinuate, sometimes with small circular holes/pits.</obo:IAO_0000115>
+        <obo:IAO_0000117 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Celine Kerfant</obo:IAO_0000117>
+        <obo:IAO_0000119 rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000003"/>
+        <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Papillae</oboInOwl:hasExactSynonym>
+        <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Scutiform opal</oboInOwl:hasExactSynonym>
+        <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Variants 34 and 35 in the morphotype class Pileolita</oboInOwl:hasExactSynonym>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">papillate</rdfs:label>
+    </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000006"/>
+        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
+        <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Papillae</owl:annotatedTarget>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sangster et al., 1983, Figs. 2-4</obo:IAO_0000119>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000006"/>
+        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
+        <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Scutiform opal</owl:annotatedTarget>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Parry and Smithson, 1966, Plate 2, Figs. 18, 20-23, Plate 3, Figs. 24, 25</obo:IAO_0000119>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000006"/>
+        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
+        <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Variants 34 and 35 in the morphotype class Pileolita</owl:annotatedTarget>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bertoldi de Pomar, 1971, Figure, p. 323</obo:IAO_0000119>
+    </owl:Axiom>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.6) https://github.com/owlcs/owlapi -->
+
