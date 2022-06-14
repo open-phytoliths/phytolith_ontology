@@ -1,0 +1,16 @@
+robot.bat template --template "templates/phytolith_ontology - update 2.tsv" ^
+  --prefix "phytolith: http://phytoliths.org/ontologies/" ^
+  --prefix "obo: http://purl.obolibrary.org/obo/" ^
+  --prefix "go: http://www.geneontology.org/formats/" ^
+  --ontology-iri "http://phytoliths.org/ontologies/phytolith.owl" ^
+  --output "to-replace-phytolith-edit.owl"
+
+robot.bat template --merge-before ^
+ --template "templates/phytolith_ontology - update 2.tsv" ^
+       --input "phytolith-edit.owl" ^
+  --prefix "phytolith: http://phytoliths.org/ontologies/" ^
+  --prefix "obo: http://purl.obolibrary.org/obo/" ^
+  --prefix "go: http://www.geneontology.org/formats/" ^
+  --ontology-iri "http://phytoliths.org/ontologies/phytolith.owl" ^
+  --output "to-replace-phytolith-edit.owl"
+
