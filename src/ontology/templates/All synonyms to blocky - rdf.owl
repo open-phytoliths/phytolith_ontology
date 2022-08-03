@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="http://phytoliths.org/ontologies/phytolith.owl#"
+<rdf:RDF xmlns="http://phytoliths.org/ontologies/phytolith.owl"
      xml:base="http://phytoliths.org/ontologies/phytolith.owl"
      xmlns:obo="http://purl.obolibrary.org/obo/"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
@@ -7,8 +7,7 @@
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
-     xmlns:ontologies="http://phytoliths.org/ontologies/">
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
     <owl:Ontology rdf:about="http://phytoliths.org/ontologies/phytolith.owl"/>
     
 
@@ -21,12 +20,6 @@
     ///////////////////////////////////////////////////////////////////////////////////////
      -->
 
-    
-
-
-    <!-- http://phytoliths.org/ontologies/PHYTOLITH_0010001 -->
-
-    <owl:AnnotationProperty rdf:about="http://phytoliths.org/ontologies/PHYTOLITH_0010001"/>
     
 
 
@@ -264,95 +257,16 @@
         <rdfs:subClassOf rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000004"/>
         <obo:IAO_0000115>Elongate entire has an overall rectilinear 2D outline and highly variable sizes. Slightly arcuate elongated phytoliths with more or less parallel long sides are also included. L:W is characteristically is greater or equal to 2. The margins are smooth, without distinct projections or indentations, but sometimes slightly uneven or velloate, corresponding to the inter-section of formerly adjacent cells. Ends can be concave, convex, straight, rounded or tapering. Their transverse section can range from angular (e.g., rectangular) or circular to oblong in shape. Thickness can range from thinly tabular to robustly thick. Their surface texture can range from psilate to granulate. Often observed as single cells, but also occurring articulated, arranged in parallel or longitudinal consecutive patterns.</obo:IAO_0000115>
         <obo:IAO_0000117>Celine Kerfant</obo:IAO_0000117>
-        <oboInOwl:hasExactSynonym>Category A1 and A3</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym>Cylindric geniculate psilate</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym>Cylindroid</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym>Cylindroid large</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym>Cylindroid with ridge</oboInOwl:hasExactSynonym>
         <oboInOwl:hasExactSynonym>Cylindroid, rod</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym>Dicot 3D long</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym>Dicot long</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym>Elongate psilate</oboInOwl:hasExactSynonym>
         <oboInOwl:hasExactSynonym>Elongate smooth</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym>Elongate tenius lacunose</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym>Elongate, Elongate entire, Elongate entire granulate, Elongate entire psilate, 
-Elongate entire rugose, Elongate thick</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym>Elongate-rectangular with smooth edges (G 4.1)</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym>Linear</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym>Non-diagnostic elongate</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym>Parallelepiped elongate psilate and Cylindroid psilate</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym>Plate or sheet element</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym>Plate-like bar</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym>Rectangular elongate blocky</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym>Rectangular plate with straight edges</oboInOwl:hasExactSynonym>
         <oboInOwl:hasExactSynonym>Rods with smooth outlines</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym>Sclereid</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym>Sheet element with entire margin</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym>Smooth cylindric rod (Elo-7)</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym>Stretched</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym>Subepidermal rod phytolith</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym>Tabular elongate</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym>Tabular psilate</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym>Tabular scrobiculate</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym>Tabular sinuate</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym>Tabular thick sinuate</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym>Tabular thin</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym>“Smooth elongate” (Elo-1), Thick, trapezoidal “smooth elongate” (Elo-2)</oboInOwl:hasExactSynonym>
         <rdfs:label>elongate entire</rdfs:label>
     </owl:Class>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000009"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget>Category A1 and A3</owl:annotatedTarget>
-        <rdfs:comment>Runge, 1999, p. 31</rdfs:comment>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000009"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget>Cylindric geniculate psilate</owl:annotatedTarget>
-        <rdfs:comment>Garnier et al., 2016</rdfs:comment>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000009"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget>Cylindroid</owl:annotatedTarget>
-        <rdfs:comment>Mercader et al., 2011, Fig. 2i</rdfs:comment>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000009"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget>Cylindroid large</owl:annotatedTarget>
-        <rdfs:comment>Mercader et al., 2009, Fig. 2j</rdfs:comment>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000009"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget>Cylindroid with ridge</owl:annotatedTarget>
-        <rdfs:comment>Phillips and Lancelotti, 2014, Fig. 3aa</rdfs:comment>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000009"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget>Cylindroid, rod</owl:annotatedTarget>
         <obo:IAO_0000119>Parry and Smithson, 1964; Rovner, 1983</obo:IAO_0000119>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000009"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget>Dicot 3D long</owl:annotatedTarget>
-        <rdfs:comment>Cummings, 1998, p. 106</rdfs:comment>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000009"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget>Dicot long</owl:annotatedTarget>
-        <rdfs:comment>Cummings, 1998, p. 105</rdfs:comment>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000009"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget>Elongate psilate</owl:annotatedTarget>
-        <rdfs:comment>Calegari et al., 2017, Fig. 4b; Gomes Coe et al., 2017, Fig. 8G</rdfs:comment>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000009"/>
@@ -363,147 +277,8 @@ Elongate entire rugose, Elongate thick</oboInOwl:hasExactSynonym>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000009"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget>Elongate smooth</owl:annotatedTarget>
-        <rdfs:comment>Gu et al., 2013, Fig. 2D</rdfs:comment>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000009"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget>Elongate tenius lacunose</owl:annotatedTarget>
-        <rdfs:comment>Phillips and Lancelotti, 2014, Fig. 3ac</rdfs:comment>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000009"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget>Elongate, Elongate entire, Elongate entire granulate, Elongate entire psilate, 
-Elongate entire rugose, Elongate thick</owl:annotatedTarget>
-        <rdfs:comment>PhytCore: www.phytcore.org</rdfs:comment>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000009"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget>Elongate-rectangular with smooth edges (G 4.1)</owl:annotatedTarget>
-        <rdfs:comment>Runge, 1999, Table 2</rdfs:comment>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000009"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget>Linear</owl:annotatedTarget>
-        <rdfs:comment>Madella et al., 2002</rdfs:comment>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000009"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget>Non-diagnostic elongate</owl:annotatedTarget>
-        <rdfs:comment>Bremond et al. 2016, Fig. 2l</rdfs:comment>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000009"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget>Parallelepiped elongate psilate and Cylindroid psilate</owl:annotatedTarget>
-        <rdfs:comment>Albert et al., 1999</rdfs:comment>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000009"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget>Plate or sheet element</owl:annotatedTarget>
-        <rdfs:comment>Brown, 1984, Kaplan et al., 1992</rdfs:comment>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000009"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget>Plate-like bar</owl:annotatedTarget>
-        <rdfs:comment>Lu and Liu, 2003</rdfs:comment>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000009"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget>Rectangular elongate blocky</owl:annotatedTarget>
-        <rdfs:comment>Phillips and Lancelotti, 2014, Fig. 3ae</rdfs:comment>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000009"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget>Rectangular plate with straight edges</owl:annotatedTarget>
-        <rdfs:comment>Blinnikov et al., 2002, Fig. 3.1</rdfs:comment>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000009"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget>Rods with smooth outlines</owl:annotatedTarget>
         <obo:IAO_0000119>Baker, 1960</obo:IAO_0000119>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000009"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget>Sclereid</owl:annotatedTarget>
-        <rdfs:comment>Piperno, 2006, p. 112, Figs. 6.1d-e, Garnier et al., 2016, Fig. 2Ae</rdfs:comment>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000009"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget>Sheet element with entire margin</owl:annotatedTarget>
-        <rdfs:comment>Kaplan et al., 1992, 156, Fig 8.1</rdfs:comment>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000009"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget>Smooth cylindric rod (Elo-7)</owl:annotatedTarget>
-        <rdfs:comment>Strömberg, 2003, p. 315, Fig. 4.12g</rdfs:comment>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000009"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget>Stretched</owl:annotatedTarget>
-        <rdfs:comment>Colliot et al., 1997, p. 278</rdfs:comment>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000009"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget>Subepidermal rod phytolith</owl:annotatedTarget>
-        <rdfs:comment>Ball et al., 2009</rdfs:comment>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000009"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget>Tabular elongate</owl:annotatedTarget>
-        <rdfs:comment>Mercader et al., 2009, Fig. 4k</rdfs:comment>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000009"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget>Tabular psilate</owl:annotatedTarget>
-        <rdfs:comment>Mercader et al., 2009, Fig. 2n</rdfs:comment>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000009"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget>Tabular scrobiculate</owl:annotatedTarget>
-        <rdfs:comment>Mercader et al., 2009, Fig. 2q, Mercader et al., 2010, Fig. 5.10</rdfs:comment>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000009"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget>Tabular sinuate</owl:annotatedTarget>
-        <rdfs:comment>Mercader et al., 2010, Fig. 5.11</rdfs:comment>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000009"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget>Tabular thick sinuate</owl:annotatedTarget>
-        <rdfs:comment>Mercader et al., 2011, Fig. 2o</rdfs:comment>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000009"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget>Tabular thin</owl:annotatedTarget>
-        <rdfs:comment>Mercader et al. 2010, Fig. 5.12</rdfs:comment>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000009"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget>“Smooth elongate” (Elo-1), Thick, trapezoidal “smooth elongate” (Elo-2)</owl:annotatedTarget>
-        <rdfs:comment>Strömberg, 2003, p. 315, Fig. 4.12a</rdfs:comment>
     </owl:Axiom>
     
 
@@ -775,85 +550,29 @@ Elongate entire rugose, Elongate thick</owl:annotatedTarget>
         <rdfs:subClassOf rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000006"/>
         <obo:IAO_0000115>Morphotype characterized by, in planar view, overall rectangular shape but with sinuate to crenate OPS sides. Ends rectilinear, concave or (sometimes irregularly) convex. CRENATE typically has an asymmetrical trapezoidal cross-section, where the IPS usually is smaller than the OPS (but exceptions exist). IPS is overall rectangular but can have sinuate margins; it can also be ornamented (e.g., carinate or with small, marginal projections).</obo:IAO_0000115>
         <obo:IAO_0000117>Celine Kerfant</obo:IAO_0000117>
-        <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(Lobed) costal and intercostal rods</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Crenate</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Elongated-sinuous</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Festucoid Class: Oblong, sinuous (1h)</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Long wavy plate</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Plate wavy, short, Plate wavy, long</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Plurhalteriolita (in part)</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pooid Class (1h)</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sinuate polylobate</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sinuous trapezoid (VA1 and VA2, in part)</oboInOwl:hasExactSynonym>
+        <oboInOwl:hasExactSynonym>(Lobed) costal and intercostal rods</oboInOwl:hasExactSynonym>
+        <oboInOwl:hasExactSynonym>Elongated-sinuous</oboInOwl:hasExactSynonym>
+        <oboInOwl:hasExactSynonym>Festucoid Class: Oblong, sinuous (1h)</oboInOwl:hasExactSynonym>
         <rdfs:label>crenate</rdfs:label>
     </owl:Class>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000018"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(Lobed) costal and intercostal rods</owl:annotatedTarget>
-        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blackman, 1971, Figs. 104, 6-10, 13, 15, 19, 20</obo:IAO_0000119>
+        <owl:annotatedTarget>(Lobed) costal and intercostal rods</owl:annotatedTarget>
+        <obo:IAO_0000119>Blackman, 1971, Figs. 104, 6-10, 13, 15, 19, 20</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000018"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Crenate</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fredlund and Tieszen, 1994, Fig. 2. E1, E2</rdfs:comment>
+        <owl:annotatedTarget>Elongated-sinuous</owl:annotatedTarget>
+        <obo:IAO_0000119>Metcalfe, 1960, Figs. IA, 14-15</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000018"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Crenate</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PhytCore:www.phytcore.org</rdfs:comment>
+        <owl:annotatedTarget>Festucoid Class: Oblong, sinuous (1h)</owl:annotatedTarget>
+        <obo:IAO_0000119>Twiss et al., 1969, Fig. 2</obo:IAO_0000119>
     </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000018"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Elongated-sinuous</owl:annotatedTarget>
-        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Metcalfe, 1960, Figs. IA, 14-15</obo:IAO_0000119>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000018"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Festucoid Class: Oblong, sinuous (1h)</owl:annotatedTarget>
-        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Twiss et al., 1969, Fig. 2</obo:IAO_0000119>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000018"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Long wavy plate</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Morris, 2009, Plate II, g, n, p</rdfs:comment>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000018"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Plate wavy, short, Plate wavy, long</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blinnikov, 2005, Plate 1,2-3</rdfs:comment>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000018"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Plurhalteriolita (in part)</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bertoldi de Pomar, 1971, 323, Clave grafica</rdfs:comment>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000018"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pooid Class (1h)</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Twiss, 1992, Fig. 6.1</rdfs:comment>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000018"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sinuate polylobate</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mulholland and Rapp, 1992, Fig. 4.16</rdfs:comment>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000018"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sinuous trapezoid (VA1 and VA2, in part)</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brown, 1984, Fig.1</rdfs:comment>
-    </owl:Axiom>
-
     
 
 
@@ -1026,36 +745,9 @@ Elongate entire rugose, Elongate thick</owl:annotatedTarget>
         <owl:annotatedTarget>Spherical verrucose</owl:annotatedTarget>
         <obo:IAO_0000119>Kondo et al., 1994, Plates 12, 13</obo:IAO_0000119>
     </owl:Axiom>
-    
-
-
-    <!-- http://phytoliths.org/ontologies/PHYTOLITH_0000025 -->
-
-    <owl:Class rdf:about="http://phytoliths.org/ontologies/PHYTOLITH_0000025">
-        <ontologies:PHYTOLITH_0010001 rdf:resource="Morphotype class Aculeolita (in part)"/>
-        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unarticulated, solid body with a generally narrower, acute part (referred to as the  apex), and another, wider part (referred to as the antapex). The antapex is hemi-spheroidal  (rounded), truncated hemispheroidal, or has a near-parallelepipedal to fusiform shape with more or  less pointed ends. The apex can be straight or curved, with a sharp or rounded tip. It often forms  an angle of less than 90 degrees with the long axis of the antapex, resulting in a markedly asymmetrical,  roughly triangular shape in side view. The body overall consists of granular or homogenous silica,  typically obscure and/or maculose. The antapex can have multiple simple or dendritic processes  covering part of its surface.</obo:IAO_0000115>
-        <obo:IAO_0000117 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Celine Kerfant</obo:IAO_0000117>
-        <obo:IAO_0000119 rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000004"/>
-        <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bertoldi de Pomar, 1975, Plate IV, Figs. 5, 8, 9, 14, 15</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brown, 1984, Fig. 1</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Piperno, 1988, Fig. 46</oboInOwl:hasExactSynonym>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">acute bulbosus</rdfs:label>
-    </owl:Class>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000025"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bertoldi de Pomar, 1975, Plate IV, Figs. 5, 8, 9, 14, 15</owl:annotatedTarget>
-        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trichomes, short and long (types IIA3, IIC3)</obo:IAO_0000119>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000025"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brown, 1984, Fig. 1</owl:annotatedTarget>
-        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Non-segmented hair phytolith</obo:IAO_0000119>
-    </owl:Axiom>
 </rdf:RDF>
 
 
 
-<!-- Generated by the OWL API (version 4.5.6) https://github.com/owlcs/owlapi -->
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
 
