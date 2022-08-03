@@ -1,0 +1,1398 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://phytoliths.org/ontologies/phytolith.owl"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://phytoliths.org/ontologies/phytolith.owl">
+    <Prefix name="" IRI="http://phytoliths.org/ontologies/phytolith.owl"/>
+    <Prefix name="obo" IRI="http://purl.obolibrary.org/obo/"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Prefix name="oboInOwl" IRI="http://www.geneontology.org/formats/oboInOwl#"/>
+    <Declaration>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000001"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000002"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000003"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000004"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000005"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000006"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000007"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000008"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000009"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000010"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000011"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000012"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000013"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000014"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000015"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000016"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000017"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000018"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000019"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000020"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000021"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000022"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000023"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000024"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000117"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000002"/>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000001"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000003"/>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000001"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000006"/>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000005"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000007"/>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000004"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000008"/>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000004"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000009"/>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000004"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000010"/>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000004"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000011"/>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000004"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000012"/>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000004"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000013"/>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000004"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000014"/>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000004"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000014"/>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000006"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000015"/>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000004"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000015"/>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000006"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000016"/>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000004"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000016"/>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000006"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000017"/>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000004"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000017"/>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000006"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000018"/>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000004"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000018"/>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000006"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000019"/>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000004"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000019"/>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000006"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000020"/>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000004"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000020"/>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000006"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000021"/>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000004"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000022"/>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000004"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000023"/>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000005"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000024"/>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000004"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000024"/>
+        <Class IRI="http://phytoliths.org/ontologies/PHYTOLITH_0000023"/>
+    </SubClassOf>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000117"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000001</IRI>
+        <Literal>Henriette Harmse</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000001</IRI>
+        <Literal>phytolith nomenclature</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000002</IRI>
+        <Literal>International Code for Phytolith Nomenclature 1.0</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000117"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000002</IRI>
+        <Literal>Name of Term Editor</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000002</IRI>
+        <Literal>ICPN1.0</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000003</IRI>
+        <Literal>International Code for Phytolith Nomenclature 2.0</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000117"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000003</IRI>
+        <Literal>Name of Term Editor</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000003</IRI>
+        <Literal>ICPN2.0</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000004</IRI>
+        <Literal>root phytolith</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000117"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000004</IRI>
+        <Literal>Name of Term Editor</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000004</IRI>
+        <Literal>phytolith</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000005</IRI>
+        <Literal>root morphotype</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000117"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000005</IRI>
+        <Literal>Celine Kerfant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000005</IRI>
+        <Literal>morphotype group</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000117"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000006</IRI>
+        <Literal>Celine Kerfant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000006</IRI>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000003</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000006</IRI>
+        <Literal>grass silica short cell phytoliths</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000007</IRI>
+        <Literal>Blocky encompasses compact, heavily built, solid phytoliths with length/width &lt;2, and width and thickness roughly equal. In 3-D perspective the overall shape resembles a parallelepiped (a 6-faced parallelogram), although there can be more faces. The faces may be flat, slightly convex or concave. The edges of the faces are sharp or blunt. From a 2-D perspective some blocky present four or more sides. Some blocky have projections at the edges, ridges, facets or  protrusions that may appear as dentate margins in certain views. They may also show slightly uneven or velloate edges corresponding to the intersection of formerly adjacent cells. Surfaces can  be psilate, granulate, or columellate.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000117"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000007</IRI>
+        <Literal>Celine Kerfant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000007</IRI>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000003</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Bozarth, 1993, Fig. 2a</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000007</IRI>
+        <Literal>Blocky  polyhedron</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>Strömberg, 2003, Fig 4.15, a-j</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000007</IRI>
+        <Literal>Blocky bodies (Blo), in part contained in Rectangular plates (Blo-1), Thickened rectangular plate (Blo-2), Faceted rectangular plate (Blo-3), Thick polyhedral plate (Blo-4), Chamaerops blocky polyhedron (Blo-5), Blocky polyhedron (Blo-6), Thick trapezoidal rectangle with knobs (Blo-7), Sulcate, facted 3D polyhedron
+(Blo-8), Bulliform A: radiator-shaped body (Blo-9)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>PhytCore: www.PhytCore.org</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000007</IRI>
+        <Literal>Blocky polyhedral (An, 2016, Fig. 1a-d). Cubic (An 2016, Fig. 1a-d). Blocky, Blocky velloate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>Barboni et al. 2010, Fig. 4. 25-33</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000007</IRI>
+        <Literal>Blocky types subdivided between cubic, hexagonal, parallelepipeds and other types</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Sase and Hosono, 2001, Fig. 1, Last Glacial  Phytolith (14-15); Last Interglacial Phytoliths (12-13)</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000007</IRI>
+        <Literal>Polyhedral</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Mulholland and Rapp, 1992</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000007</IRI>
+        <Literal>Rectangles/Squares plus some bulliforms cells</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>Blinnikov et al. 2002, Fig. 3.16</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000007</IRI>
+        <Literal>Rounded blocky</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>Blinnikov et al., 2002, Fig. 3.17</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000007</IRI>
+        <Literal>Sculptured blocky</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000007</IRI>
+        <Literal>blocky</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000008</IRI>
+        <Literal>Heavily built, solid phytolith, tabular, flabellate. The lower part of this fan-shaped morphotype is markedly narrower than the upper part. The outline of the upper part is generally convex and may be facetate. In some cases, the top of the upper part can be truncated, resulting in a flat to concave face. The sides of the lower part can be straight to concave. The outline of the base can be straight to typically convex. The phytolith is often symmetrical along an axis from top to base [vertical length (VL); Fujiwara, 1993], but can also be asymmetrical. The surface is typically psilate. For definitions of the different lengths used to measure this morphotype see also Fujiwara (1993).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000117"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000008</IRI>
+        <Literal>Celine Kerfant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000008</IRI>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000003</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Pearsall and Dinan, 1992, 41, Fig. 3.1A</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000008</IRI>
+        <Literal>Bulliform cells, Category 50</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>PhytCore: www.phytcore.org</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000008</IRI>
+        <Literal>Bulliform flabellate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>Yost and Blinnikov, 2011, Fig. 3D, 8O, 9L</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000008</IRI>
+        <Literal>Cuneiform Bulliform</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>Sase and Hosono, 2001, Fig. 1, Holocene phytoliths (1-2), Last Glacial Phytoliths (8-9), Last Interglacial Phytoliths (1, 14-17)</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000008</IRI>
+        <Literal>Fan-shaped</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>Piperno, 2006, Figs. 2.3a, 3.9c</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000008</IRI>
+        <Literal>Grass Bulliform phytolith and Bulliform</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Pearsall et al., 1995</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000008</IRI>
+        <Literal>Keystone bulliform cells</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Fujiwara, 1993, Figs. 2-6, 8-10, 15, 18</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000008</IRI>
+        <Literal>Motor cell silica body</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000008</IRI>
+        <Literal>bulliform flabellate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000009</IRI>
+        <Literal>Elongate entire has an overall rectilinear 2D outline and highly variable sizes. Slightly arcuate elongated phytoliths with more or less parallel long sides are also included. L:W is characteristically is greater or equal to 2. The margins are smooth, without distinct projections or indentations, but sometimes slightly uneven or velloate, corresponding to the inter-section of formerly adjacent cells. Ends can be concave, convex, straight, rounded or tapering. Their transverse section can range from angular (e.g., rectangular) or circular to oblong in shape. Thickness can range from thinly tabular to robustly thick. Their surface texture can range from psilate to granulate. Often observed as single cells, but also occurring articulated, arranged in parallel or longitudinal consecutive patterns.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000117"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000009</IRI>
+        <Literal>Celine Kerfant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>Runge, 1999, p. 31</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000009</IRI>
+        <Literal>Category A1 and A3</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>Garnier et al., 2016</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000009</IRI>
+        <Literal>Cylindric geniculate psilate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>Mercader et al., 2011, Fig. 2i</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000009</IRI>
+        <Literal>Cylindroid</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>Mercader et al., 2009, Fig. 2j</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000009</IRI>
+        <Literal>Cylindroid large</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>Phillips and Lancelotti, 2014, Fig. 3aa</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000009</IRI>
+        <Literal>Cylindroid with ridge</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Parry and Smithson, 1964; Rovner, 1983</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000009</IRI>
+        <Literal>Cylindroid, rod</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>Cummings, 1998, p. 106</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000009</IRI>
+        <Literal>Dicot 3D long</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>Cummings, 1998, p. 105</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000009</IRI>
+        <Literal>Dicot long</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>Calegari et al., 2017, Fig. 4b; Gomes Coe et al., 2017, Fig. 8G</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000009</IRI>
+        <Literal>Elongate psilate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Twiss et al., 1969, 4a</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000009</IRI>
+        <Literal>Elongate smooth</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>Gu et al., 2013, Fig. 2D</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000009</IRI>
+        <Literal>Elongate smooth</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>Phillips and Lancelotti, 2014, Fig. 3ac</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000009</IRI>
+        <Literal>Elongate tenius lacunose</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>PhytCore: www.phytcore.org</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000009</IRI>
+        <Literal>Elongate, Elongate entire, Elongate entire granulate, Elongate entire psilate, 
+Elongate entire rugose, Elongate thick</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>Runge, 1999, Table 2</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000009</IRI>
+        <Literal>Elongate-rectangular with smooth edges (G 4.1)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>Madella et al., 2002</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000009</IRI>
+        <Literal>Linear</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>Bremond et al. 2016, Fig. 2l</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000009</IRI>
+        <Literal>Non-diagnostic elongate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>Albert et al., 1999</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000009</IRI>
+        <Literal>Parallelepiped elongate psilate and Cylindroid psilate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>Brown, 1984, Kaplan et al., 1992</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000009</IRI>
+        <Literal>Plate or sheet element</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>Lu and Liu, 2003</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000009</IRI>
+        <Literal>Plate-like bar</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>Phillips and Lancelotti, 2014, Fig. 3ae</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000009</IRI>
+        <Literal>Rectangular elongate blocky</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>Blinnikov et al., 2002, Fig. 3.1</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000009</IRI>
+        <Literal>Rectangular plate with straight edges</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Baker, 1960</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000009</IRI>
+        <Literal>Rods with smooth outlines</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>Piperno, 2006, p. 112, Figs. 6.1d-e, Garnier et al., 2016, Fig. 2Ae</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000009</IRI>
+        <Literal>Sclereid</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>Kaplan et al., 1992, 156, Fig 8.1</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000009</IRI>
+        <Literal>Sheet element with entire margin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>Strömberg, 2003, p. 315, Fig. 4.12g</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000009</IRI>
+        <Literal>Smooth cylindric rod (Elo-7)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>Colliot et al., 1997, p. 278</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000009</IRI>
+        <Literal>Stretched</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>Ball et al., 2009</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000009</IRI>
+        <Literal>Subepidermal rod phytolith</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>Mercader et al., 2009, Fig. 4k</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000009</IRI>
+        <Literal>Tabular elongate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>Mercader et al., 2009, Fig. 2n</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000009</IRI>
+        <Literal>Tabular psilate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>Mercader et al., 2009, Fig. 2q, Mercader et al., 2010, Fig. 5.10</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000009</IRI>
+        <Literal>Tabular scrobiculate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>Mercader et al., 2010, Fig. 5.11</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000009</IRI>
+        <Literal>Tabular sinuate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>Mercader et al., 2011, Fig. 2o</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000009</IRI>
+        <Literal>Tabular thick sinuate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>Mercader et al. 2010, Fig. 5.12</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000009</IRI>
+        <Literal>Tabular thin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal>Strömberg, 2003, p. 315, Fig. 4.12a</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000009</IRI>
+        <Literal>“Smooth elongate” (Elo-1), Thick, trapezoidal “smooth elongate” (Elo-2)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000009</IRI>
+        <Literal>elongate entire</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000010</IRI>
+        <Literal>Tabular,  with  an  overall  rectilinear  to  nearly  rectilinear  2D  outline. L:W  is  greater  or  equal  to  2. The  margins  of  the  long  sides (rarely  the  short  sides)  are  distinctly  sinuate,  with  alternating  convexities and  concavities. The  amplitude  and  periodicity  of  the  undulating  concavities  and  convexities  are  variable  and  can  be  regular  or  irregular. Undulations  can  range  from  slightly  too  well  developed,  in  the latter  case  sometimes  becoming  clavate  to  columnar  to  castellate.  Surface  texture  can  vary  widely  including  psilate,  granulate,  papillar,  and  striate. Often  observed  as single cells, but  also  occurring  articulated.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000117"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000010</IRI>
+        <Literal>Celine Kerfant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Brown, 1984, Fig. 1, 1A1a &amp; c</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000010</IRI>
+        <Literal>Elongate thin sinuous (1A1)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Kaplan et al., 1992, p. 157, type Ia; Figs. 8.2 A, B</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000010</IRI>
+        <Literal>Sheet element, margin sinuous</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Kaplan et al., 1992, p. 157, type Ie: Figs. 8.3 A, B</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000010</IRI>
+        <Literal>Sheet element, margin undulate-interlocking</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000010</IRI>
+        <Literal>elongate sinuate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000011</IRI>
+        <Literal>Elongated,  with  a  rectilinear  to  nearly  rectilinear  2D  outline.  L:W  is  greater  or  equal  to  2.  The  margins  of  the  long  side  (rarely,  if  ever  on  the  short  side)  in  2D  view  are  dentate,  i.e.  they  have  acute,  sometimes  carinate  projections. Their  thickness  can  range  from  thinly  tabular  to  robustly  thick.  Surface  texture  is  typically  psilate,  but  sometimes  granulate,  or papillar.  Often  observed  as  single  cells,  but  also  occurring  articulated.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000117"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000011</IRI>
+        <Literal>Celine Kerfant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Twiss et al., 1969, Fig. 2.4c, d</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000011</IRI>
+        <Literal>Elongate spiny with pavement</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Geis, 1978, Plate 5F-H</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000011</IRI>
+        <Literal>Intercellular silica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Brown 1984, Fig. 1, IA2a</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000011</IRI>
+        <Literal>Plate elongate thick rounded top with pointed or rounded edges projections</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000011</IRI>
+        <Literal>elongate dendate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000012</IRI>
+        <Literal>Elongate, with a rectilinear to nearly rectilinear 2D outline. L:W is greater or equal to 2. Elongate dentritic typically have branched processes extending laterally away from both of their longer sides. Processes may also be observed extending laterally from the shorter ends of the phytolith.sides. Though typically branched, the processes may range from branched once or multiple times to unbranched (i.e., dentate) on a single phytolith. The apices of the processes range from rounded to acute or dentate. Surface texture psilate to papillar</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000117"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000012</IRI>
+        <Literal>Celine Kerfant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Parry and Smithson, 1966</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000012</IRI>
+        <Literal>Dendriform (opals)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Hodson and Sangster, 1988, Figs. 29, 30, 34, 43</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000012</IRI>
+        <Literal>Sinuous-walled long cells</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Kaplan et al., 1992, Fig. 8.4</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000012</IRI>
+        <Literal>Surface with protuberances branched dendritically (Ii)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000012</IRI>
+        <Literal>elongate dentritic</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000013</IRI>
+        <Literal>Shape varies from being more or less cylindric and elongate to more compact and polyhedral. Cylindric elongate bodies range from being relatively straight, with consistent diameter and unbranched to being any or all of irregular, ellipsoidal, brachiform, and having soft facets. Ends can be straight, rounded, or pointed/tapering. Phytoliths can consist of one or multiple of these bodies in articulation. The characteristic feature of the morphotype is the surface decoration. In TRACHEARY ANNULATE/HELICAL this consists of ring-to helical-shaped ridges arranged perpendicular to the long axis, more  or less regularly and densely distributed over the entire phytolith and appearing in side view as castellate protrusions at the long edges. In TRACHEARY PITTED, surface decoration consists of circular to oval projections in surface view, more or less densely distributed on the surface. In closer 3D-view these projections can show some variation, e.g. pilate, gibbate, or tuberculate, but never dendritic. They can be regularly arranged in vertical rows along the length of the phytolith or be less regularly arranged. In TRACHEARY BORDERED, surface decoration is characterized by small (2-4 microns), convex discs with a centrally located, nipple-like knob that are commonly found in pairs on either side of the surface of the body as a whole, sometimes in addition to annulate/helical ridges. Included in TRACHEARY are also transitional forms, for example morphotypes in which the ridges do not encircle the cylinder, but appear as narrow ellipses or oblong shapes on the surface of the body (oriented perpendicular to the long axis), as well as forms that are both annulate/helical and pilate. If a subtype cannot be clearly identified, the more general name TRACHEARY should be given.The silicification of the TRACHEARY as a whole ranges from a thin interior layer with a hollow center to a completely infilled body. </Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000117"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000013</IRI>
+        <Literal>Celine Kerfant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Geis 1978, Plate 5B</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000013</IRI>
+        <Literal>Single tracheary element</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Geis, 1973, Figs. 49-51; Geis, 1978, Plate 5A</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000013</IRI>
+        <Literal>TRACHEARY ANNULATE/HELICAL: Silicified vascular cell</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Geis, 1978, Plate 5C</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000013</IRI>
+        <Literal>Xylem vessel</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000013</IRI>
+        <Literal>tracheary</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000014</IRI>
+        <Literal>Symmetrical morphotype described as resembling a saddle (e.g., Metcalfe, 1960) or a battle axe with double edges (Prat, 1948), in planar view consisting of two more or less convex faces connected by concave faces. In side view, both IPS and OPS are concave; in end view, IPS and OPS are and shape, giving the body nearly three planes of symmetry. SADDLE encompasses morphotypes with the convex faces (slightly) shorter than, or equal to thetypically convex. In planar view, IPS and OPS have the same, or nearly the same, size concave faces, sometimes referred to as tall saddle, as well as forms with longer convex faces, so-called squat saddles (Piperno and Pearsall, 1998: Figs. 18-20).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000117"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000014</IRI>
+        <Literal>Celine Kerfant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Twiss et al., 1969, Fig. 2</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000014</IRI>
+        <Literal>Chloridoid Class 2a-b, in  part)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Bertoldi de Pomar, 1971, 323, Clave grafica</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000014</IRI>
+        <Literal>Doliolita (at least in part)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Metcalfe, 1960, Fig. I 9 (iv)-(viii)</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000014</IRI>
+        <Literal>Saddle-shaped (in part)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000014</IRI>
+        <Literal>saddle</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000015</IRI>
+        <Literal>Morphotype whose OPS consists of two lobes separated by two indentations or a distinct castula, with length greater than or equal to 1.3 the width of the lobes (planar view). OPS ends convex, straight, or concave (planar view). IPS variable in shape (bilobate, angular, to carinate in IPS view), size relative to OPS, and degree and type of ornamentation (e.g., ridges, tubercles). Thickness variable.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000117"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000015</IRI>
+        <Literal>Celine Kerfant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Metcalfe, 1960, Figs. IA.17-18, IB.19-23</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000015</IRI>
+        <Literal>Dumb-bell shaped, Oryza type</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Bertoldi de Pomar, 1971, Clave grafica, p.323</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000015</IRI>
+        <Literal>Halteriolita variants 4-12</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Twiss et al., 1969, Fig. 2</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000015</IRI>
+        <Literal>Panicoid Class: Dumbbell (3c-3f)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000015</IRI>
+        <Literal>bilobate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000016</IRI>
+        <Literal>Morphotype consisting of two end-lobes separated by a castula, along which are inserted additional, distinctly separated lobes (in effect a BILOBATE with additional lobes attached along an extended castula). Castula-lobes can be of similar size or smaller than end lobes and either paired (present on both sides of the castula) or unpaired. Both IPS and OPS are lobed in shape, although the IPS can be less well defined in castula areas. IPS can be ornamented (e.g., ridges, tubercles).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000117"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000016</IRI>
+        <Literal>Celine Kerfant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Metcalfe, 1960, Figs. IA 18 (i), IB 22 (iii)</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000016</IRI>
+        <Literal>Nodular</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Twiss et al., 1969, Fig. 2</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000016</IRI>
+        <Literal>Panicoid Class: Dumbbell spiny shank, Dumbbell nodular shank, Complex dumbbell (3g-j)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Bertoldi de Pomar, 1971, Clave grafica, p.323</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000016</IRI>
+        <Literal>Plurhalteriorita (in part)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000016</IRI>
+        <Literal>polylobate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000017</IRI>
+        <Literal>Morphotype whose OPS consists of three or more (typically four) roughly equal lobes separated by three or more (typically four) indentations. Length and width in planar view approximately equal, with longest dimension less than 1.3 times the length of the dimension at right angles approximately equal, with longest dimension less than 1.3 times the length of the dimension at right angle with it. IPS variable in shape (e.g., cross, rectangular, rounded, carinate), size relative to OPS, and degree of ornamentation (e.g., facets, flange-like extensions, tubercles).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000117"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000017</IRI>
+        <Literal>Celine Kerfant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Metcalfe, 1960, Fig. IA 16</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000017</IRI>
+        <Literal>Cross-shaped</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Bertoldi de Pomar, 1971, Clave grafica, p.323</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000017</IRI>
+        <Literal>Euhalteriolita variant 14</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Twiss et al., 1969, Fig. 2</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000017</IRI>
+        <Literal>Panicoid Class: Cross (3a-b, in part)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000017</IRI>
+        <Literal>cross</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000018</IRI>
+        <Literal>Morphotype characterized by, in planar view, overall rectangular shape but with sinuate to crenate OPS sides. Ends rectilinear, concave or (sometimes irregularly) convex. CRENATE typically has an asymmetrical trapezoidal cross-section, where the IPS usually is smaller than the OPS (but exceptions exist). IPS is overall rectangular but can have sinuate margins; it can also be ornamented (e.g., carinate or with small, marginal projections).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000117"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000018</IRI>
+        <Literal>Celine Kerfant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Blackman, 1971, Figs. 104, 6-10, 13, 15, 19, 20</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000018</IRI>
+        <Literal>(Lobed) costal and intercostal rods</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Metcalfe, 1960, Figs. IA, 14-15</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000018</IRI>
+        <Literal>Elongated-sinuous</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Twiss et al., 1969, Fig. 2</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000018</IRI>
+        <Literal>Festucoid Class: Oblong, sinuous (1h)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000018</IRI>
+        <Literal>crenate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000019</IRI>
+        <Literal>Compact morphotype with approximately circular or oval OPS (planar view), which can be slightly indented or flattened along one aspect. IPS variable in shape (rounded to angular, pointed, or carinate), size relative to OPS (smaller, equal to, or larger), and degree and type of ornamentation (e.g., ridges, tubercles). RONDEL thickness also highly variable (low to very tall).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000117"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000019</IRI>
+        <Literal>Celine Kerfant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Bertoldi de Pomar, 1971, Clave grafica, p.323</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000019</IRI>
+        <Literal>Estrobilolita variants 19, 20, 22</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Twiss et al., 1969, Fig. 2</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000019</IRI>
+        <Literal>Festucoid Class: Circular, Elliptical, Acicular, Crescent (1a,c-e )</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Metcalfe, 1960, Figs. I 4,6-8</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000019</IRI>
+        <Literal>Round, Elliptical, Tall and narrow</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000019</IRI>
+        <Literal>rondel</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000020</IRI>
+        <Literal>Both OPS and IPS quadratic to rectangular or oblong in planar view, with at least the two longer faces (sides) parallel, and with straight, convex, or oblique ends. IPS usually smaller, resulting in trapezoidal cross sections, and typically not strongly faceted or ornamented.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000117"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000020</IRI>
+        <Literal>Celine Kerfant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Brown, 1984, Fig. 1</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000020</IRI>
+        <Literal>Double outline (IIIA3, in part, III B1-4), Trapezoids: Non-sinuous (V, in part)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Metcalfe, 1960, Fig. IA 12</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000020</IRI>
+        <Literal>Elongated-smooth, Cubical, Cuboid</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Twiss et al., 1969, Fig. 2</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000020</IRI>
+        <Literal>Festucoid Class: Rectangular, Oblong 1b,g, in part</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000020</IRI>
+        <Literal>trapezoid</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000021</IRI>
+        <Literal>Solid or hollow phytoliths, spheroidal to slightly ellipsoidal or somewhat irregular, but with the basic shape resembling a sphere. Surface smooth, without surface ornamentation or projections. Internal texture homogeneous translucent  silica, or granular best discernible in SEM, or with concentric laminae. Occurring singly or in articulated groups.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000117"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000021</IRI>
+        <Literal>Celine Kerfant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>ter Welle, 1976a, b</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000021</IRI>
+        <Literal>Grain</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Runge, 1999, Plate I4: Type B1/B7</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000021</IRI>
+        <Literal>Spherical phytolith with a smooth surface</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Kondo et al., 1994, Plate 10</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000021</IRI>
+        <Literal>Spherical smooth</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000021</IRI>
+        <Literal>spheroid psilate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000022</IRI>
+        <Literal>Solid spheroidal phytoliths with conical projections distributed over the entire surface. The shape ranges from  spherical to slightly ellipsoidal or somewhat irregular, but with the basic shape resembling a sphere. The conical projections  vary in size, are more or less closely spaced, and can be distinctly pointed to rounded. Individual conical projections are either simple or compound, with apices having one or two smaller satellite projections or being split in two (two-headed).  Occurring singly or in articulated groups/rows.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000117"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000022</IRI>
+        <Literal>Celine Kerfant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Barboni et al., 1999, Plate I 1-3</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000022</IRI>
+        <Literal>Circular crenate, Palmae type </Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Bertoldi de Pomar, 1971, p. 319, 323</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000022</IRI>
+        <Literal>Globulolitha esferoequinolata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Piperno, 1888, Plate 1, 2; Kondo et al., 1994, Plate 11 a-d</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000022</IRI>
+        <Literal>Spherical spinulose</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000022</IRI>
+        <Literal>spheroid echinate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000023</IRI>
+        <Literal>arecaceae</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000024</IRI>
+        <Literal>Spheroidal solid phytoliths with complex surface ornamentation. The shape can range from spheroidal to slightly ellipsoid or largely irregular, but with the basic shape resembling a sphere. Occurring singly or in articulated groups. The  morphotype includes a large range of surface ornamentations, such as areolate, granulate, rugose, verrucate, columellate and plicate, and various combinations and/or transitional forms of all of these.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="obo:IAO_0000117"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000024</IRI>
+        <Literal>Celine Kerfant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Kondo and Peason, 1981, Fig. 7 a-d</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000024</IRI>
+        <Literal>Irregular sphere or oval-shaped opals</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Piperno, 1988, Plate 5</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000024</IRI>
+        <Literal>Spherical rugulose</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="obo:IAO_0000119"/>
+            <Literal>Kondo et al., 1994, Plates 12, 13</Literal>
+        </Annotation>
+        <AnnotationProperty abbreviatedIRI="oboInOwl:hasExactSynonym"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000024</IRI>
+        <Literal>Spherical verrucose</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://phytoliths.org/ontologies/PHYTOLITH_0000024</IRI>
+        <Literal>spheroid ornate</Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+

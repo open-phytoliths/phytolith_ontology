@@ -1,0 +1,9 @@
+ID	Label	Definition	Editor	Type	Morphotype group	Synonym 1	Synonym 1 Citations	Synonym 2	Synonym 2 Citations	Synonym 3	Synonym 3 Citations	Defined by	Parent Class    	Domain	Range
+ID	LABEL	A obo:IAO_0000115	A obo:IAO_0000117	TYPE	AI phytolith:PHYTOLITH_0010001	A go:oboInOwl#hasExactSynonym SPLIT=|	>A obo:IAO_0000119 SPLIT=|	A go:oboInOwl#hasExactSynonym SPLIT=|	>A obo:IAO_0000119 SPLIT=|	A go:oboInOwl#hasExactSynonym SPLIT=|	>A obo:IAO_0000119 SPLIT=|	AI obo:IAO_0000119	SC %            	DOMAIN	RANGE
+phytolith:PHYTOLITH_0000024	saddle				grass silica short cell phytoliths										
+phytolith:PHYTOLITH_0000025	bilobate				grass silica short cell phytoliths										
+phytolith:PHYTOLITH_0000026	polylobate				grass silica short cell phytoliths										
+phytolith:PHYTOLITH_0000027	cross				grass silica short cell phytoliths										
+phytolith:PHYTOLITH_0000028	crenate				grass silica short cell phytoliths										
+phytolith:PHYTOLITH_0000029	rondel				grass silica short cell phytoliths										
+phytolith:PHYTOLITH_0000030	trapezoid				grass silica short cell phytoliths										

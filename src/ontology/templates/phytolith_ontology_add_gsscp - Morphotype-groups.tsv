@@ -1,0 +1,13 @@
+ID	Label	Definition	Editor	Type	Synonym 1	Synonym 1 Citations	Synonym 2	Synonym 2 Citations	Synonym 3	Synonym 3 Citations	Defined by	Parent Class    	Domain	Range
+ID	LABEL	A obo:IAO_0000115	A obo:IAO_0000117	TYPE	A go:oboInOwl#hasExactSynonym SPLIT=|	>A obo:IAO_0000119 SPLIT=|	A go:oboInOwl#hasExactSynonym SPLIT=|	>A obo:IAO_0000119 SPLIT=|	A go:oboInOwl#hasExactSynonym SPLIT=|	>A obo:IAO_0000119 SPLIT=|	AI obo:IAO_0000119	SC %            	DOMAIN	RANGE
+phytolith:PHYTOLITH_0010001	hasMorphotypeGroup	Used to indicate that a phytolith belongs to a particular morphotype group.		annotation property										
+phytolith:PHYTOLITH_0010002	morphotype group	root morphotype	Celine Kerfant											
+phytolith:PHYTOLITH_0010003	grass silica short cell phytoliths		Celine Kerfant		some synonym						ICPN2.0	morphotype group		
+phytolith:PHYTOLITH_0010004	morphotype group 1		Celine Kerfant		some synonym						ICPN2.0	morphotype group		
+phytolith:PHYTOLITH_0010005	saddle		Celine Kerfant		some synonym						ICPN2.0	morphotype group		
+phytolith:PHYTOLITH_0010006	bilobate		Celine Kerfant		some synonym						ICPN2.0	morphotype group		
+phytolith:PHYTOLITH_0010007	polylobate		Celine Kerfant		some synonym						ICPN2.0	morphotype group		
+phytolith:PHYTOLITH_0010008	cross		Celine Kerfant		some synonym						ICPN2.0	morphotype group		
+phytolith:PHYTOLITH_0010009	crenate		Celine Kerfant		some synonym						ICPN2.0	morphotype group		
+phytolith:PHYTOLITH_0010010	rondel		Celine Kerfant		some synonym						ICPN2.0	morphotype group		
+phytolith:PHYTOLITH_0010011	trapezoid		Celine Kerfant		some synonym						ICPN2.0	morphotype group		
