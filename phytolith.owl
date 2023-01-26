@@ -124,19 +124,19 @@
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000005"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Acicular type (Aci1)</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Novello and Barboni, 2015, Plate 1</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Novello and Barboni, 2015, Plate 1</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000005"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Small prickle</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kaplan et al., 1992; types IIa1, Fig. 8.9; type IIb2, Fig 8.15</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kaplan et al., 1992; types IIa1, Fig. 8.9; type IIb2, Fig 8.15</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000005"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Spindle-shaped body (trichome filling) (Tri-8)</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Strömberg, 2003, Fig. 4.10d</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Strömberg, 2003, Fig. 4.10d</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000005"/>
@@ -160,37 +160,37 @@
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000005"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point-shaped (Ps) types Ps01-09</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zucol et al., 2010, Figs. 22.4E, 22.7.1-9</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zucol et al., 2010, Figs. 22.4E, 22.7.1-9</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000005"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point-shaped phytolith</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Twiss, 1992, Fig.6.1</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Twiss, 1992, Fig.6.1</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000005"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Prickle hairs, hook hairs, macrohairs</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fernandez-Honaine et al., 2006, Fig. 2E-G</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fernandez-Honaine et al., 2006, Fig. 2E-G</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000005"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Silicified prickle base from Poaceae</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Runge, 1998, Plate V.8, Type G3</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Runge, 1998, Plate V.8, Type G3</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000005"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Silicified trichome (ht) and silicified hair or hair base (hh)</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blinnikov, 2005, Plate I.14-15 and Fig. 2. 14-15</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blinnikov, 2005, Plate I.14-15 and Fig. 2. 14-15</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000005"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Simple trichome</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Strömberg, 2004</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Strömberg, 2004</obo:IAO_0000119>
     </owl:Axiom>
     
 
@@ -217,7 +217,7 @@
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000006"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grass inflorescence hook-shaped short cell (modified trichome) (Tri-12)</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Strömberg, 2003, Fig. 4.10h</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Strömberg, 2003, Fig. 4.10h</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000006"/>
@@ -229,7 +229,7 @@
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000006"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point-shaped (Ps) type Ps10</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zucol et al., 2010, Fig. 22.7.10</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zucol et al., 2010, Fig. 22.7.10</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000006"/>
@@ -241,25 +241,25 @@
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000006"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Short, solid cones</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ollendorf, 1992, Fig. 5.2</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ollendorf, 1992, Fig. 5.2</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000006"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Small prickle</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kaplan et al., 1992; types IIa1, Fig. 8.8; type IIa2, Fig. 8.10-11</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kaplan et al., 1992; types IIa1, Fig. 8.8; type IIa2, Fig. 8.10-11</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000006"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Small prickle phytoliths</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ball et al., 1993, Figs. 1, 6, 7, 13,14</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ball et al., 1993, Figs. 1, 6, 7, 13,14</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000006"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trichomes, short, conical hook (types IIA1a, b)</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brown, 1984, Fig. 1</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brown, 1984, Fig. 1</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000006"/>
@@ -286,7 +286,7 @@
         <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rectangles/Squares plus some bulliforms cells</oboInOwl:hasExactSynonym>
         <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sculptured blocky</oboInOwl:hasExactSynonym>
         <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thickened rectangular plate (Blo-2), Faceted rectangular plate (Blo-3), Thick polyhedral plate (Blo-4), Chamaerops blocky polyhedron (Blo-5), Blocky polyhedron (Blo-6), Thick trapezoidal rectangle with knobs (Blo-7), Sulcate, facted 3D polyhedron (Blo-8), Bulliform A: radiator-shaped body (Blo-9)</oboInOwl:hasExactSynonym>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rounded blocky</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rounded blocky</obo:IAO_0000119>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">blocky</rdfs:label>
     </owl:Class>
     <owl:Axiom>
@@ -299,25 +299,25 @@
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000007"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blocky polyhedral</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">An, 2016, Fig. 1a-d</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">An, 2016, Fig. 1a-d</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000007"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blocky types subdivided between cubic, hexagonal, parallelepipeds and other types</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Barboni et al., 2010, Fig. 4. 25-33</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Barboni et al., 2010, Fig. 4. 25-33</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000007"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blocky, Blocky velloate</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PhytCore: www.PhytCore.org</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PhytCore: www.PhytCore.org</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000007"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cubic</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">An 2016, Fig. 1a-d</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">An 2016, Fig. 1a-d</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000007"/>
@@ -335,19 +335,19 @@
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000007"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sculptured blocky</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blinnikov et al., 2002, Fig. 3.17</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blinnikov et al., 2002, Fig. 3.17</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000007"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thickened rectangular plate (Blo-2), Faceted rectangular plate (Blo-3), Thick polyhedral plate (Blo-4), Chamaerops blocky polyhedron (Blo-5), Blocky polyhedron (Blo-6), Thick trapezoidal rectangle with knobs (Blo-7), Sulcate, facted 3D polyhedron (Blo-8), Bulliform A: radiator-shaped body (Blo-9)</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Strömberg, 2003, Fig 4.15, a-j</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Strömberg, 2003, Fig 4.15, a-j</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000007"/>
         <owl:annotatedProperty rdf:resource="http://www.w3.org/2000/01/rdf-schema#comment"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rounded blocky</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blinnikov et al., 2002, Fig. 3.16</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blinnikov et al., 2002, Fig. 3.16</obo:IAO_0000119>
     </owl:Axiom>
     
 
@@ -377,25 +377,25 @@
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000008"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bulliform flabellate</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PhytCore: www.phytcore.org</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PhytCore: www.phytcore.org</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000008"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cuneiform Bulliform</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yost and Blinnikov, 2011, Fig. 3D, 8O, 9L</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yost and Blinnikov, 2011, Fig. 3D, 8O, 9L</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000008"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fan-shaped</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sase and Hosono, 2001, Fig. 1, Holocene phytoliths (1-2), Last Glacial Phytoliths (8-9), Last Interglacial Phytoliths (1, 14-17)</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sase and Hosono, 2001, Fig. 1, Holocene phytoliths (1-2), Last Glacial Phytoliths (8-9), Last Interglacial Phytoliths (1, 14-17)</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000008"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grass Bulliform phytolith and Bulliform</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Piperno, 2006, Figs. 2.3a, 3.9c</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Piperno, 2006, Figs. 2.3a, 3.9c</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000008"/>
@@ -623,13 +623,13 @@
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000015"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bilobate</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PhytCore:www.phytcore.org</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PhytCore:www.phytcore.org</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000015"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bilobates (VI)</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brown, 1984, Fig. 1</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brown, 1984, Fig. 1</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000015"/>
@@ -641,7 +641,7 @@
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000015"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dumbbell</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mulholland, 1989, Fig. 2</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mulholland, 1989, Fig. 2</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000015"/>
@@ -659,7 +659,7 @@
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000015"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stipa-type, Simple Lobate, Panicoid-type</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fredlund and Tieszen, 1994, Fig. 2F-H</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fredlund and Tieszen, 1994, Fig. 2F-H</obo:IAO_0000119>
     </owl:Axiom>
     
 
@@ -756,13 +756,13 @@
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000018"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Crenate</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fredlund and Tieszen, 1994, Fig. 2. E1, E2</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fredlund and Tieszen, 1994, Fig. 2. E1, E2</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000018"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Crenate</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PhytCore:www.phytcore.org</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PhytCore:www.phytcore.org</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000018"/>
@@ -780,37 +780,37 @@
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000018"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Long wavy plate</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Morris, 2009, Plate II, g, n, p</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Morris, 2009, Plate II, g, n, p</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000018"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Plate wavy, short, Plate wavy, long</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blinnikov, 2005, Plate 1,2-3</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blinnikov, 2005, Plate 1,2-3</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000018"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Plurhalteriolita (in part)</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bertoldi de Pomar, 1971, 323, Clave grafica</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bertoldi de Pomar, 1971, 323, Clave grafica</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000018"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pooid Class (1h)</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Twiss, 1992, Fig. 6.1</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Twiss, 1992, Fig. 6.1</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000018"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sinuate polylobate</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mulholland and Rapp, 1992, Fig. 4.16</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mulholland and Rapp, 1992, Fig. 4.16</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000018"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sinuous trapezoid (VA1 and VA2, in part)</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brown, 1984, Fig.1</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brown, 1984, Fig.1</obo:IAO_0000119>
     </owl:Axiom>
     
 
@@ -908,19 +908,19 @@
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000021"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Globular psilate</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bremond et al., 2008, Fig. 2.13</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bremond et al., 2008, Fig. 2.13</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000021"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Globular smooth</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Barboni et al., 2007, Fig. 2.13; Iriarte and Paz, 2009, Fig. 2c</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Barboni et al., 2007, Fig. 2.13; Iriarte and Paz, 2009, Fig. 2c</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000021"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Globulolithum sphaeropsilathum</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zucol and Brea, 2005, Fig. 2D</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zucol and Brea, 2005, Fig. 2D</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000021"/>
@@ -932,19 +932,19 @@
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000021"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Small globular</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bremond et al., 2017, Fig. 2b</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bremond et al., 2017, Fig. 2b</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000021"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Smooth VI spheres and subspheres (Cl-1), VI spheres (VI-1) (in part)</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Strömberg, 2003, Fig. 4.11e</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Strömberg, 2003, Fig. 4.11e</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000021"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Smooth sphere</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Piperno, 2006, Fig. 2.10</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Piperno, 2006, Fig. 2.10</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000021"/>
@@ -962,7 +962,7 @@
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000021"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Spheroid psilate</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PhytCore DB</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PhytCore DB</obo:IAO_0000119>
     </owl:Axiom>
     
 
@@ -988,7 +988,7 @@
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000022"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Echinate sphere (Clm-2)</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Strömberg, 2003, p. 672, Fig. 4.11a, b; Wallis, 2003, Fig. 2</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Strömberg, 2003, p. 672, Fig. 4.11a, b; Wallis, 2003, Fig. 2</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000022"/>
@@ -1000,19 +1000,19 @@
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000022"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Globulolithum sphaeroechinulathum</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zucol and Brea, 2005, Fig. 2A–C</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zucol and Brea, 2005, Fig. 2A–C</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000022"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mamillated spheroid</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vrydaghs et al., 2001</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vrydaghs et al., 2001</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000022"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Spherical Palmae phytolith with spinulose surface (Type B3)</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Runge, 1999, Plate III7</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Runge, 1999, Plate III7</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000022"/>
@@ -1024,7 +1024,7 @@
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000022"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Spheroid echinate</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bamford et al., 2006; PhytCore DB</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bamford et al., 2006; PhytCore DB</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000022"/>
@@ -1036,7 +1036,7 @@
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000022"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Crenate spherical</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bremond et  al., 2005, Fig. 2.9</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bremond et  al., 2005, Fig. 2.9</obo:IAO_0000119>
     </owl:Axiom>
     
 
@@ -1066,25 +1066,25 @@
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000023"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Circular rugose</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alexandre et al., 1997, Fig. 2h</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alexandre et al., 1997, Fig. 2h</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000023"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Decorated sphere</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Piperno, 2006, Fig. 2.13</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Piperno, 2006, Fig. 2.13</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000023"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Globular decorated (class A3)</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neumann et al., 2009, Fig. 2c-f</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neumann et al., 2009, Fig. 2c-f</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000023"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Globular, with various patterns of surface sculpturing</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chen and Smith, 2013, Figs. 1D, 3M, 4O, W, Y, Z, AA</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chen and Smith, 2013, Figs. 1D, 3M, 4O, W, Y, Z, AA</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000023"/>
@@ -1096,19 +1096,19 @@
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000023"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rough spherical</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bremond et al., 2005, Fig.2.10</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bremond et al., 2005, Fig.2.10</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000023"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Small rugose/rugulose sphere (C1-7)</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Strömberg, 2003, Fig.4.11k</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Strömberg, 2003, Fig.4.11k</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000023"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Spherical class, spheroid with various surface ornamentations</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bowdery et  al., 2001</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bowdery et  al., 2001</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000023"/>
@@ -1126,19 +1126,19 @@
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000023"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Spherical with a rough surface (B2)</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Runge,1999</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Runge,1999</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000023"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Verrucate sphere class D1</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Strömberg, 2004, Fig. 5d</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Strömberg, 2004, Fig. 5d</obo:IAO_0000119>
     </owl:Axiom>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://phytoliths.org/ontologies/PHYTOLITH_0000023"/>
         <owl:annotatedProperty rdf:resource="http://www.w3.org/2000/01/rdf-schema#label"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spheroid ornate</owl:annotatedTarget>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PhytCore DB</rdfs:comment>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PhytCore DB</obo:IAO_0000119>
     </owl:Axiom>
 </rdf:RDF>
 
